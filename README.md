@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # Hi, I'm Sargaras!
 
 I'm building AI constraints and automation frameworks.
